@@ -1,12 +1,14 @@
 # Youtube UI zen (block all 💩)
 
-###### Table of Contents
+**↓↓Table of Contents↓↓**
 
-* [Youtube UI zen (block all <g-emoji class="g-emoji" alias="hankey" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a9.png">💩</g-emoji>)](#youtube-ui-zen-block-all-)
-   * [What i rip off?](#what--i-rip-off)
-   * [Demo](#demo)
-   * [You want block more <g-emoji class="g-emoji" alias="hankey" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a9.png">💩</g-emoji>?](#you-want-block-more-)
-   * [How to use this?](#how-to-use-this)
+- [Youtube UI zen (block all <g-emoji class="g-emoji" alias="hankey" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a9.png">💩</g-emoji>)](#youtube-ui-zen-block-all-)
+  - [What i rip off?](#what--i-rip-off)
+  - [Demo](#demo)
+  - [You want block more <g-emoji class="g-emoji" alias="hankey" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a9.png">💩</g-emoji>?](#you-want-block-more-)
+  - [How to use this?](#how-to-use-this)
+
+---
 
 ## What 💩 i rip off?
 
@@ -19,15 +21,15 @@
 
 ## Demo
 
-![](<./img/20211107222334.png>)
-![](<./img/20211107222442.png>)
+![](./img/20211107222334.png)
+![](./img/20211107222442.png)
 
 ## You want block more 💩?
 
 - Ulock have the feature block element
 - Find the 💩 you want to rip off → right click → click `Block element` -> you will know what to do.
 
-![](<./img/20211107222850.png>)
+![](./img/20211107222850.png)
 
 ## How to use this?
 
@@ -35,11 +37,11 @@
 2. add this script below to the filter tab
 3. Done
 
-![](<./img/20211107223430.png>)
+![](./img/20211107223430.png)
 
 > hold you cursor in the block code, github will show you the copy button, just simple click it.
 
-```json
+```txt
 www.youtube.com##ytd-topbar-menu-button-renderer.style-default.ytd-masthead.style-scope:nth-of-type(2)
 www.youtube.com##ytd-toggle-button-renderer.style-text.force-icon-button.ytd-menu-renderer.style-scope > .ytd-toggle-button-renderer.style-scope.yt-simple-endpoint
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
