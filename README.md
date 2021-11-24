@@ -26,7 +26,7 @@
 
 ## You want block more 💩?
 
-- Ulock have the feature block element
+- Ublock have the feature block element
 - Find the 💩 you want to rip off → right click → click `Block element` -> you will know what to do.
 
 ![](./img/20211107222850.png)
