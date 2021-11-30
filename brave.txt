@@ -26,4 +26,3 @@ www.youtube.com###count > .ytd-video-primary-info-renderer.style-scope
 www.youtube.com###count
 www.youtube.com###copyright
 www.youtube.com###action-buttons
-www.youtube.com###copyright
