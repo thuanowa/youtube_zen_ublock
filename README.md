@@ -13,7 +13,7 @@
 
 OR
 
--  
+- Add this link `https://raw.githubusercontent.com/thuanowa/youtube_zen_ublock/main/youtube-zen.txt` to your filter lists -> custom -> import box
 
 ## Preview
 
