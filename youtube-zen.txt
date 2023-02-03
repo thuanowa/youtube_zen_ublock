@@ -1,0 +1,23 @@
+www.youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope > .ytd-watch-next-secondary-results-renderer.style-scope
+www.youtube.com###segmented-dislike-button
+www.youtube.com###subscriber-count
+www.youtube.com##span.ytd-video-meta-block.style-scope.inline-metadata-item:nth-of-type(1)
+www.youtube.com###metadata
+www.youtube.com###owner-sub-count
+www.youtube.com##.ytd-watch-metadata.style-scope > yt-button-shape.ytd-subscribe-button-renderer.style-scope
+www.youtube.com##span.bold.yt-formatted-string.style-scope:nth-of-type(1)
+www.youtube.com##.ytd-comments-header-renderer.style-scope.count-text
+www.youtube.com##yt-formatted-string.ytd-channel-about-metadata-renderer.style-scope:nth-of-type(3)
+www.youtube.com###metadata-line
+www.youtube.com##.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--filled.yt-spec-button-shape-next
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+www.youtube.com###copyright
+www.youtube.com##ytd-thumbnail.ytd-rich-grid-media.style-scope
+www.youtube.com##ytd-thumbnail.ytd-video-renderer.style-scope
+www.youtube.com##ytd-thumbnail.ytd-reel-item-renderer.style-scope
+www.youtube.com###card-thumbnail
+www.youtube.com##ytd-thumbnail.ytd-grid-video-renderer.style-scope
+www.youtube.com##.ytp-endscreen-content
