@@ -21,3 +21,4 @@ www.youtube.com##ytd-thumbnail.ytd-reel-item-renderer.style-scope
 www.youtube.com###card-thumbnail
 www.youtube.com##ytd-thumbnail.ytd-grid-video-renderer.style-scope
 www.youtube.com##.ytp-endscreen-content
+www.youtube.com##ytd-playlist-thumbnail.ytd-grid-playlist-renderer.style-scope

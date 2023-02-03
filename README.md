@@ -18,3 +18,6 @@ OR
 ## Preview
 
 ![youtube home](./youtube_home.png)
+![youtube search result](./youtube_search_result.png)
+![youtube channel](./youtube_channel.png)
+![youtube video](./youtube_video.png)
