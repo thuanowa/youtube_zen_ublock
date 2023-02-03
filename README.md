@@ -17,7 +17,7 @@ OR
 
 ## Preview
 
-![youtube home](./youtube_home.png)
-![youtube search result](./youtube_search_result.png)
-![youtube channel](./youtube_channel.png)
-![youtube video](./youtube_video.png)
+![youtube home](./img/youtube_home.png)
+![youtube search result](./img/youtube_search_result.png)
+![youtube channel](./img/youtube_channel.png)
+![youtube video](./img/youtube_video.png)
