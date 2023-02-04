@@ -29,3 +29,6 @@ www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-o
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
 www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(5)
 www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(2)
+www.youtube.com##.ytd-two-column-browse-results-renderer.style-scope > .ytd-rich-grid-renderer.style-scope
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint
+www.youtube.com##ytd-playlist-thumbnail.ytd-playlist-renderer.style-scope
