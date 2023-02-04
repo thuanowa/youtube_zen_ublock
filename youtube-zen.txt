@@ -26,3 +26,6 @@ www.youtube.com##ytd-segmented-like-dislike-button-renderer.ytd-menu-renderer.st
 www.youtube.com##ytd-thumbnail.ytd-radio-renderer.style-scope
 www.youtube.com###thumbnail-container
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
+www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(5)
+www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(2)
