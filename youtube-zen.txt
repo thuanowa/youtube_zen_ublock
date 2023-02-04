@@ -32,3 +32,6 @@ www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-rendere
 www.youtube.com##.ytd-two-column-browse-results-renderer.style-scope > .ytd-rich-grid-renderer.style-scope
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint
 www.youtube.com##ytd-playlist-thumbnail.ytd-playlist-renderer.style-scope
+www.youtube.com###voice-search-button
+www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope > .ytd-mini-guide-renderer.style-scope
+www.youtube.com###guide-button
