@@ -22,3 +22,6 @@ www.youtube.com###card-thumbnail
 www.youtube.com##ytd-thumbnail.ytd-grid-video-renderer.style-scope
 www.youtube.com##.ytp-endscreen-content
 www.youtube.com##ytd-playlist-thumbnail.ytd-grid-playlist-renderer.style-scope
+www.youtube.com##ytd-segmented-like-dislike-button-renderer.ytd-menu-renderer.style-scope
+www.youtube.com##ytd-thumbnail.ytd-radio-renderer.style-scope
+
