@@ -34,7 +34,6 @@ www.youtube.com##ytd-playlist-thumbnail.ytd-playlist-renderer.style-scope
 www.youtube.com###voice-search-button
 www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope > .ytd-mini-guide-renderer.style-scope
 www.youtube.com###guide-button
-www.youtube.com##.grid-disabled.ytd-browse.style-scope > .ytd-two-column-browse-results-renderer.style-scope
 www.youtube.com###like-button
 www.youtube.com###dislike-button
 www.youtube.com###comments-button > .ytd-reel-player-overlay-renderer-v2.style-scope > yt-button-shape > .yt-spec-button-shape-with-label > .yt-spec-button-shape-with-label__label > .yt-core-attributed-string--word-wrapping.yt-core-attributed-string--text-alignment-center.yt-core-attributed-string--white-space-pre-wrap.yt-core-attributed-string
@@ -42,3 +41,4 @@ www.youtube.com###share-button > .ytd-reel-player-overlay-renderer-v2.style-scop
 www.youtube.com###subscribe-button
 www.youtube.com###logo
 www.youtube.com###center > .ytd-masthead.style-scope
+www.youtube.com###thumbnail > .ytd-thumbnail.style-scope.inline-block.yt-simple-endpoint
